@@ -1,11 +1,12 @@
 body{
     margin: 0;
     text-align: center;
+    background-image:url('C:\Users\punit\Downloads\Website\images for website\killua-yawning.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
 
 }
-.background {
-    background-image: url('C:\Users\punit\Downloads\Website\images for website\killua-yawning.gif');
-    background-position: center;
-    background-size: cover;
-    overflow: hidden;
-  }
+
