@@ -4,3 +4,9 @@ body{
     text-align: center;
 
 }
+.background {
+    background-image: url('C:\Users\punit\Downloads\Website\images for website\killua-yawning.gif');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+  }
